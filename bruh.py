@@ -30,3 +30,14 @@ if __name__ == "__main__":
     random_subtracting()
     print()
     random_multiplying()
+
+'''
+bru hbruh burh burh ub h
+
+hi
+
+helo 
+1 2 
+4
+
+'''
