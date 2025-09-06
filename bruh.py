@@ -33,7 +33,17 @@ if __name__ == "__main__":
 
 '''
 bru hbruh burh burh ub h
+this 
+is
+a
+test
+bro
+another
+test
+lol
+awesse
 
+ysm
 hi
 
 helo 
